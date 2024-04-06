@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-akaya-kanadaka: "Akaya Kanadaka";
+  --font-inter: Inter;
+  --font-abeezee: ABeeZee;
+  --font-readex-pro: "Readex Pro";
+  --font-cera-pro: "Cera Pro";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-29xl: 48px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-9xl: 28px;
+
+  /* Colors */
+  --color-whitesmoke: #f7f6f9;
+  --color-gray-100: #84828a;
+  --color-gray-200: #838383;
+  --color-gray-300: #7e7d82;
+  --color-gray-400: #2c2c2c;
+  --color-gray-500: rgba(131, 131, 131, 0.5);
+  --color-darkgray-100: #a2a1a7;
+  --color-darkgray-200: #a2a2a2;
+  --color-darkgray-300: #a49f9f;
+  --color-black: #000;
+  --color-lavender-100: #efe9ff;
+  --color-lavender-200: #e8e9ff;
+  --color-lavender-300: #e6dcff;
+  --color-white: #fff;
+  --color-darkorange: #ff8a00;
+  --color-blue: #6425fe;
+  --color-yellowgreen: #77b900;
+  --color-crimson-100: #e8464c;
+  --color-crimson-200: #e2435e;
+  --color-lightgray: #dcd2d2;
+  --color-violet: #f8a5ff;
+  --color-lightgreen: #c7ffa5;
+  --color-red-100: #ff0000;
+  --color-cornflowerblue: #aaaff9;
+  --color-mediumblue: #672eff;
+  --color-green: #008000;
+  --color-forestgreen: #0ca637;
+  --color-indianred: #e45069;
+  --color-gainsboro: #e4e4e6;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-5xl: 24px;
+  --gap-397xl: 416px;
+  --gap-13xl: 32px;
+  --gap-xl: 20px;
+  --gap-base: 16px;
+  --gap-202xl: 221px;
+  --gap-7xs: 6px;
+  --gap-65xl: 84px;
+  --gap-xs: 12px;
+  --gap-168xl: 187px;
+  --gap-9xs: 4px;
+  --gap-77xl: 96px;
+  --gap-12xl: 31px;
+  --gap-178xl: 197px;
+  --gap-15xl: 34px;
+  --gap-71xl: 90px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-146xl: 165px;
+  --padding-xl: 20px;
+  --padding-base: 16px;
+  --padding-xs: 12px;
+  --padding-7xs-5: 5.5px;
+  --padding-5xl: 24px;
+  --padding-37xl: 56px;
+  --padding-7xs: 6px;
+  --padding-116xl: 135px;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+  --br-5xs: 8px;
+  --br-8xs-4: 4.4px;
+  --br-15xl: 34px;
+  --br-9xs: 4px;
+  --br-11xs: 2px;
+  --br-12xs: 1px;
+  --br-7xs: 6px;
+  --br-11xl: 30px;
+}
